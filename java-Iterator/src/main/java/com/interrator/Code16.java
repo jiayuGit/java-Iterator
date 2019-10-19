@@ -5,6 +5,7 @@ import java.util.Date;
 
 /**
  * 二分查找两个数组长度不相等,数组内有序的中位数
+ * 时间复杂度O(Log(N))
  */
 public class Code16 {
     public static void main(String[] ags){

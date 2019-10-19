@@ -2,7 +2,8 @@ package com.interrator;
 
 
 /**
- * 最长回文子串
+ * 字符串中最长回文子串
+ * 时间复杂度O(N)
  */
 public class Code17 {
     public static void main(String[] ags) {
